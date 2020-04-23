@@ -1,0 +1,15 @@
+﻿C:\Users\小尹阿包\Desktop\推箱子\BoxMan\BoxMan\BoxMan.vcxproj(72,5): warning MSB4011: 无法再次导入“C:\Users\小尹阿包\Desktop\推箱子\BoxMan\BoxMan\SFML_Release.props”。可能已在“C:\Users\小尹阿包\Desktop\推箱子\BoxMan\BoxMan\BoxMan.vcxproj (71,5)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  BoxGame.cpp
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.h(29): warning C4091: “typedef ”: 没有声明变量时忽略“GridState”的左侧
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(268): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(273): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(278): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(283): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(288): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(298): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  0 of 78 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  BoxMan.vcxproj -> C:\Users\小尹阿包\Desktop\推箱子\BoxMan\x64\Release\BoxMan.exe

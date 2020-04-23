@@ -1,0 +1,9 @@
+﻿  BoxGame.cpp
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.h(29): warning C4091: “typedef ”: 没有声明变量时忽略“GridState”的左侧
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(265): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(270): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(275): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(280): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(285): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\小尹阿包\desktop\推箱子\boxman\boxman\boxgame.cpp(295): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  BoxMan.vcxproj -> C:\Users\小尹阿包\Desktop\推箱子\BoxMan\x64\Debug\BoxMan.exe
